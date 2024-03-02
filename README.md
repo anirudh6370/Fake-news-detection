@@ -30,3 +30,7 @@ This project aims to detect fake news using machine learning techniques. It uses
    ```
    
 5. The application will launch in your default web browser, displaying the user interface.
+   
+## Screenshot
+
+![Fake News Detection](https://github.com/anirudh6370/Fake-news-detection/blob/main/Screenshot%202024-03-02%20123428.png)
