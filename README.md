@@ -1,6 +1,8 @@
 # Fake News Detection
 
-![Fake News Detection Banner](https://github.com/anirudh6370/Fake-news-detection/blob/main/fake%20news.png)
+![Fake News Detection Banner](static\fake news.png)
+
+static\fake news.png
 
 ## Overview
 
@@ -33,4 +35,4 @@ This project aims to detect fake news using machine learning techniques. It uses
    
 ## Screenshot
 
-![Fake News Detection](https://github.com/anirudh6370/Fake-news-detection/blob/main/Screenshot%202024-03-02%20123428.png)
+![Fake News Detection](static\Screenshot 2024-03-02 123428.png)

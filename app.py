@@ -26,8 +26,7 @@ if st.button("Predict"):
     prediction_rf = model_rf.predict(input_vectorized)
     
     # Display the prediction
-    
     if prediction_rf[0] == 1:
-        st.write("Random Forest Model Prediction: Fake News")
+        st.write("Fake News")
     else:
-        st.write("Random Forest Model Prediction: True News")
+        st.write("True News")
